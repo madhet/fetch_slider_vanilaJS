@@ -1,0 +1,1 @@
+Fetch users from https://jsonplaceholder.typicode.com and display in sliders.
